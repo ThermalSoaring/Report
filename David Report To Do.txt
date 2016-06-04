@@ -1,0 +1,9 @@
+-Finish first pass
+
+-Cite the images properly
+-Add legend to reward function
+-Run through stuff one more time
+-Clean up images in general - crop / add legends etc.
+--Increase title font size also
+
+Have by Sunday night
