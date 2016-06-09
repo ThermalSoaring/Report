@@ -1,5 +1,0 @@
-
---Cite the images properly (add to references) 
---- Sutton, Wikipedia, PyBrain docs
-
-Conclusion good?
